@@ -1,0 +1,5 @@
+[IN].base_rpm,read_temperature.[OUT].return,set_fan_rpm.[IN].rpm,[OUT]._return
+1000,25,1000,1000
+1000,50,2000,2000
+2000,25,3000,3000
+2000,50,4000,4000
